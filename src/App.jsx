@@ -141,7 +141,7 @@ function App() {
           <div className="video-container">
             {/* استبدل كلمة VIDEO_ID بالـ ID بتاع فيديو اليوتيوب بتاعك */}
             <iframe 
-              src="https://www.youtube.com/embed/VIDEO_ID" 
+              src="https://www.youtube.com/embed/https://youtu.be/HeY2apzDoak" 
               title="شرح Salonify" 
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
